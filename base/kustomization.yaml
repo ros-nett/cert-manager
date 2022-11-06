@@ -7,7 +7,7 @@ resources:
   - cert-manager/cert-manager.yaml
 
   # Credentials
-  - credentials/cloudflare-ros-nett-api-token-secret.yaml
+  - credentials/cloudflare-api-token-secret.yaml
   - credentials/zerossl-ros-nett-hmac-key.yaml
   
   # Issuers
